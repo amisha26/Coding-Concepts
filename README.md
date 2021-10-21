@@ -134,6 +134,8 @@ Problems featuring Tree BFS pattern:
 - Binary Tree Level Order Traversal (easy)
 - Zigzag Traversal (medium)
 
+<hr>
+
 ## 8)Tree DFS
 Tree DFS is based on the Depth First Search (DFS) technique to traverse a tree.
 
