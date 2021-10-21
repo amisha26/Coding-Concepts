@@ -62,3 +62,38 @@ Problems featuring the fast and slow pointers pattern:
 - Cycle in a Circular Array (hard)
 
 <hr>
+
+
+## 4)Merge Intervals
+The Merge Intervals pattern is an efficient technique to deal with overlapping intervals. In a lot of problems involving intervals, you either need to find overlapping intervals or merge intervals if they overlap. The pattern works like this:
+
+Given two intervals (‘a’ and ‘b’), there will be six different ways the two intervals can relate to each other:
+
+Understanding and recognizing these six cases will help you help you solve a wide range of problems from inserting intervals to optimizing interval merges.
+
+ ![alt text](https://cdn-images-1.medium.com/max/800/0*c9UnfAoE5skRALlU) 
+ 
+How do you identify when to use the Merge Intervals pattern?
+
+- If you’re asked to produce a list with only mutually exclusive intervals
+- If you hear the term “overlapping intervals”.
+
+Merge interval problem patterns:
+
+- Intervals Intersection (medium)
+- Maximum CPU Load (hard)
+
+## 5)Cyclic sort
+This pattern describes an interesting approach to deal with problems involving arrays containing numbers in a given range. The Cyclic Sort pattern iterates over the array one number at a time, and if the current number you are iterating is not at the correct index, you swap it with the number at its correct index. You could try placing the number in its correct index, but this will produce a complexity of O(n^2) which is not optimal, hence the Cyclic Sort pattern.
+
+ ![alt text](https://cdn-images-1.medium.com/max/800/0*v9v626F2F_t2n7xw) 
+
+How do I identify this pattern?
+
+- They will be problems involving a sorted array with numbers in a given range
+- If the problem asks you to find the missing/duplicate/smallest number in an sorted/rotated array
+
+Problems featuring cyclic sort pattern:
+
+- Find the Missing Number (easy)
+- Find the Smallest Missing Positive Number (medium)
