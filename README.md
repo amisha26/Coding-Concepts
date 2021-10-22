@@ -271,6 +271,7 @@ Problems featuring the K-way Merge pattern:
 - Merge K Sorted Lists (medium)
 - K Pairs with Largest Sums (Hard)
 
+<hr>
 
 ## 14)Topological sort 
 Topological Sort is used to find a linear ordering of elements that have dependencies on each other. For example, if event ‘B’ is dependent on event ‘A’, ‘A’ comes before ‘B’ in topological ordering.
@@ -307,3 +308,6 @@ Problems featuring the Topological Sort pattern:
 
 - Task scheduling (medium)
 - Minimum height of a tree (hard)
+
+
+<hr>
