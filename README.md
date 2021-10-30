@@ -309,5 +309,4 @@ Problems featuring the Topological Sort pattern:
 - Task scheduling (medium)
 - Minimum height of a tree (hard)
 
-
 <hr>
