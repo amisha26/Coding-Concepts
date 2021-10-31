@@ -1,5 +1,7 @@
 ## Important Coding Interview Topics
 
+![coding](https://github.com/amisha26/30-days-30-Projects/blob/master/img/cod.png)
+
 ## 1. Sliding Window
 The Sliding Window pattern is used to perform a required operation on a specific window size of a given array or linked list, such as finding the longest subarray containing all 1s. Sliding Windows start from the 1st element and keep shifting right by one element and adjust the length of the window according to the problem that you are solving. In some cases, the window size remains constant and in other cases the sizes grows or shrinks.
  ![alt text](https://cdn-images-1.medium.com/max/800/0*FxacnhM3xBA0fJbm)  
